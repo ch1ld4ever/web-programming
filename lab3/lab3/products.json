@@ -1,0 +1,50 @@
+[
+	{
+		"name": "Air Jordan 1 High OG WMNS Tie-Dye",
+		"description": " Классные кроссовки",
+		"price": 10000,
+		"img_url": "/assets/img/AJ1.jpg"
+	},
+	{
+		"name": "Air Force 1 White",
+		"description": "Народная классика",
+		"price": 8000,
+		"img_url": "/assets/img/force1.jpg"
+	},
+	{
+		"name": "Jordan 1 Low",
+		"description": "Прикольные",
+		"price": 11000,
+		"img_url": "/assets/img/jordanlow.jpg"
+	},
+	{
+		"name": "Nike Air Force 1 Low x Tiffany & Co",
+		"description": "Очень дорого",
+		"price": 25000,
+		"img_url": "/assets/img/NAFTIF.jpg"
+	},
+	{
+		"name": "NIKE SB DUNK LOW CLUB 58 GULF",
+		"description": "Редкая пара",
+		"price": 18000,
+		"img_url": "/assets/img/NIKESB.jpg"
+	},
+	{
+		"name": "Adidas Superstar",
+		"description": "Мейнстрим",
+		"price": 9000,
+		"img_url": "/assets/img/superstar.jpg"
+	},
+	{
+		"name": "New Balance 574",
+		"description": "Для не таких как все",
+		"price": 13000,
+		"img_url": "/assets/img/nb574.jpg"
+	},
+	{
+		"name": "Adidas Nite Jogger",
+		"description": "Спортивный стиль",
+		"price": 12500,
+		"img_url": "/assets/img/nitejogger.jpg"
+	}
+]
